@@ -91,11 +91,9 @@ The main drawback is that it is less intuitive. Expect a steeper learning curve 
 On a standard US-qwerty keyboard, the most intuitive keys are:
 
 - the quote sign (`'`), for users who want the `1dk` to be easy to reach;
-- or the back tick (````), for users who want to make sure that no dead key will get in the way while typing code or in English.
+- or the back tick ( \` ), for users who want to make sure that no dead key will get in the way while typing code or in English.
 
-With a US-Dvorak layout, the quote key (`'`) is a possible choice but not the easiest key to chain with vowels. The dash key (`-`) chains nicely and is easy to reach, which makes it a better choice.
-
-Fearless users can also consider tweaking their own layout to make the `1dk` a dedicated key on their keyboard, so that it’s even easier to reach without sacrificing a common key such as the quote sign — see the [qwerty-lafayette](http://qwerty-lafayette.org/) project for instance.
+Fearless users can also consider tweaking their own layout to make the `1dk` a dedicated key on their keyboard, so that it’s even easier to reach without sacrificing a common key such as the quote sign — see our [qwerty42](layouts/qwerty42/) layouts.
 
 # Technical Considerations
 
