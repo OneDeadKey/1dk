@@ -1,8 +1,7 @@
 name: qwerty-1dk-pt
 name8: q1dk-pt
-description: US-QWERTY layout, one dead key, Portuguese variant
-geometry: ANSI
-version: 0.6.0
+locale: pt
+description: Portuguese (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

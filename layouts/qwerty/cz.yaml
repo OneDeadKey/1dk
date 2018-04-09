@@ -1,8 +1,7 @@
 name: qwerty-1dk-cz
 name8: q1dk-cz
-description: US-QWERTY layout, one dead key, Czech variant
-geometry: ANSI
-version: 0.6.0
+locale: cz
+description: Czech (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

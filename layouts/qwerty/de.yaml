@@ -1,8 +1,7 @@
 name: qwerty-1dk-de
 name8: q1dk-de
-description: US-QWERTY layout, one dead key, German variant
-geometry: ANSI
-version: 0.6.0
+locale: de
+description: German (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

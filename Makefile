@@ -1,18 +1,18 @@
 all:
 	kalamine layouts/custom/*.yaml
 	@echo
-	kalamine layouts/qwerty/*.yaml
+	kalamine --extends layouts/qwerty.yaml layouts/qwerty/*.yaml
 	@echo
-	kalamine layouts/qwerty42/*.yaml
+	kalamine --extends layouts/qwerty42.yaml layouts/qwerty42/*.yaml
 
 custom:
 	kalamine layouts/custom/*.yaml
 
 qwerty:
-	kalamine layouts/qwerty/*.yaml
+	kalamine --extends layouts/qwerty.yaml layouts/qwerty/*.yaml
 
 42:
-	kalamine layouts/qwerty42/*.yaml
+	kalamine --extends layouts/qwerty42.yaml layouts/qwerty42/*.yaml
 
 clean:
-	rm -f dist/*
+	rm -rf dist/*

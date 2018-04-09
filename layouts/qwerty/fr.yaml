@@ -1,8 +1,7 @@
 name: qwerty-1dk-fr
 name8: q1dk-fr
-description: US-QWERTY layout, one dead key, French variant
-geometry: ANSI
-version: 0.6.0
+locale: fr
+description: French (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

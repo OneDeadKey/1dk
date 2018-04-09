@@ -1,8 +1,7 @@
 name: qwerty-1dk-it
 name8: q1dk-it
-description: US-QWERTY layout, one dead key, Italian variant
-geometry: ANSI
-version: 0.6.0
+locale: it
+description: Italian (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

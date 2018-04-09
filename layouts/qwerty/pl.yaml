@@ -1,8 +1,7 @@
 name: qwerty-1dk-pl
 name8: q1dk-pl
-description: US-QWERTY layout, one dead key, Polish variant
-geometry: ANSI
-version: 0.6.0
+locale: pl
+description: Polish (1dk)
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓
