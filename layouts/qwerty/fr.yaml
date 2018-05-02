@@ -1,3 +1,4 @@
+extends: ../qwerty.yaml
 name: qwerty-1dk-fr
 name8: q1dk-fr
 locale: fr

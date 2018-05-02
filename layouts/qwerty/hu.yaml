@@ -1,3 +1,4 @@
+extends: ../qwerty.yaml
 name: qwerty-1dk-hu
 name8: q1dk-hu
 locale: hu

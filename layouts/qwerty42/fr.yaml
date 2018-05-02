@@ -1,3 +1,4 @@
+extends: ../qwerty42.yaml
 name: qwerty42-fr
 name8: q42-fr
 locale: fr

@@ -1,3 +1,4 @@
+extends: ../qwerty.yaml
 name: qwerty-1dk-pt
 name8: q1dk-pt
 locale: pt
@@ -26,4 +27,3 @@ base: |
 # - 1dk + (key below vowel)    = circumflex (a, e)
 # - 1dk + (key right to vowel) = tilde      (a, o)
 # - 1dk + (key left to vowel)  = diaeresis  (u)
-# TODO: cuzeros currency sign
