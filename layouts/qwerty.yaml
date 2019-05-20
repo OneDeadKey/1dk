@@ -2,7 +2,7 @@ name: qwerty-1dk
 variant: 1dk
 url: https://github.com/fabi1cazenave/1dk/tree/master/layouts/qwerty
 geometry: ANSI
-version: 0.6.0
+version: 0.10.0
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

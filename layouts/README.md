@@ -8,6 +8,7 @@ Supported languages:
 - Danish
 - French
 - German
+- Hungarian
 - Italian
 - Polish
 - Portuguese
