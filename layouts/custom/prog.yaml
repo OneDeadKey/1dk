@@ -2,6 +2,7 @@ name: qwerty-prog
 name8: q-prog
 description: QWERTY-intl layout, developer variant
 geometry: ANSI
+locale: us
 
 full: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓

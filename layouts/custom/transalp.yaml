@@ -2,6 +2,7 @@ extends: ../qwerty42.yaml
 name: qwerty42-transalp
 name8: transalp
 description: US-QWERTY layout, compact, Swiss variant
+locale: eu
 
 base: |
   ╭╌╌╌╌╌┰─────┬─────┬─────┬─────┬─────┰─────┬─────┬─────┬─────┬─────┰╌╌╌╌╌┬╌╌╌╌╌╮

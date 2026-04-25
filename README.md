@@ -11,13 +11,13 @@ Users looking for an increased typing comfort should have a look at the [qwerty4
 The latest version of [kalamine](https://github.com/fabi1cazenave/kalamine) is required:
 
 ```bash
-pip3 install kalamine
+pipx install kalamine
 ```
 
 Building a keyboard layout with kalamine is straight-forward:
 
 ```bash
-kalamine MyCustomLayout.yaml
+kalamine build MyCustomLayout.yaml
 ```
 
 All files are generated in the `dist` subdirectory:
